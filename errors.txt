@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/OriginalPlay/scene9.rpy", line 20: show statement expects a non-empty block.
+    show oberon surprise at left,dh:
+                                    ^
+
+File "game/OriginalPlay/scene9.rpy", line 21: show statement expects a non-empty block.
+    show puck worry at right,dh:
+                                ^
+
+Ren'Py Version: Ren'Py 8.3.2.24090902
+Thu Jul 24 16:55:43 2025
